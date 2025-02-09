@@ -1,0 +1,1 @@
+'foo' == 'Foo' #is a boolean expression that returns False
