@@ -11,5 +11,5 @@
 my_num = 4936
 ones = my_num % 10
 tens = my_num // 10 % 10
-hundreds = tens // 10 % 10
-thousands = hundreds // 10 % 10
+hundreds = my_num // 100 % 10
+thousands = my_num // 1000 % 10
