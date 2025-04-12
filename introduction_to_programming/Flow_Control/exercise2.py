@@ -11,7 +11,7 @@ def even_or_odd(num):
     else:
         print('argument is odd')
 
-number = float(input('User enter a number: '))
+number = int(input('User enter a number: '))
 even_or_odd(number)
     
 

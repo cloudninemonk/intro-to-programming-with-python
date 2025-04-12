@@ -37,5 +37,5 @@ def number_range(number):
 # Comments:
 
 # Whilst both mine and LS's code is very similar. LS's is more efficient considering there is only one logical expression
-# on line 27, 29 and 31. Whereas my code had two.
+# on line 27, 29 and 31. Whereas my code had two on each of those lines.
 

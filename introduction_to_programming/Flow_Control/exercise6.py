@@ -8,9 +8,9 @@
 
 def my_str(str):
     if len(str) > 10:
-        return str.upper()
+        print(str.upper())
     else:
-        return str
+        print(str)
 
 original_str = input('Enter a string: ')
 print(my_str(original_str))
@@ -32,5 +32,5 @@ print(my_str(original_str))
 
 # Comments:
 
-# This is another example of where I have answered the question due to rushing. The question
+# This is another example of where I have answered the question without reading the question properly. The question
 # asked for the values to be returned, not printed.
