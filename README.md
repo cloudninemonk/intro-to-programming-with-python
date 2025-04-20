@@ -1,4 +1,4 @@
-# Exercises from Launch School - Topic_6_Book_Introduction_to_Programming_with_Python
+# Topic_6_Book_Introduction_to_Programming_with_Python
 
 These are all the exercises from within the various chapters of Launch School's Book: Introduction to Programming with Python.
 
